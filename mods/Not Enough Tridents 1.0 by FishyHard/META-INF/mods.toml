@@ -1,0 +1,25 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="Academic Free License v3.0"
+
+[[mods]]
+modId="net"
+version="1.0"
+displayName="Not Enough Tridents"
+credits="FishyHard"
+displayURL="https://www.curseforge.com/minecraft/mc-mods/not-enough-tridents"
+authors="FishyHard"
+description='''
+This mod adds tridents with abilities.
+'''
+
+[[dependencies.net]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.5]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+

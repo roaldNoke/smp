@@ -1,0 +1,18 @@
+{
+  "item.net.tnt_stone": "TNT Powered Stone",
+  "item.not_enough_tridents.ice_powered_trident": "Ice Powered Trident",
+  "item.net.spider_stone": "Spider Powered Stone",
+  "item.not_enough_tridents.tnt_powered_trident": "TNT Powered Trident",
+  "item.not_enough_tridents.fire_powered_trident": "Fire Powered Trident",
+  "item.net.ender_pearl_powered_trident": "Ender Pearl Powered Trident",
+  "item.net.tnt_powered_trident": "TNT Powered Trident",
+  "item.net.ender_pearl_stone": "Ender Pearl Powered Stone",
+  "item.not_enough_tridents.ender_pearl_powered_trident": "Ender Pearl Powered Trident",
+  "item.net.fire_powered_trident": "Fire Powered Trident",
+  "item.not_enough_tridents.spider_powered_trident": "Spider Powered Trident",
+  "item.net.spider_powered_trident": "Spider Powered Trident",
+  "item.net.ice_powered_trident": "Ice Powered Trident",
+  "item.net.fire_stone": "Fire Powered Stone",
+  "item.net.ice_stone": "Ice Powered Stone",
+  "itemGroup.tabtridents": "Tridents"
+}

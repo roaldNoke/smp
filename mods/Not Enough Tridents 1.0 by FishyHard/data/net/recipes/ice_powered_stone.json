@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:ice"
+    },
+    "1": {
+      "item": "minecraft:potion"
+    },
+    "2": {
+      "item": "minecraft:ice"
+    },
+    "3": {
+      "item": "minecraft:potion"
+    },
+    "4": {
+      "item": "minecraft:diamond"
+    },
+    "5": {
+      "item": "minecraft:potion"
+    },
+    "6": {
+      "item": "minecraft:ice"
+    },
+    "7": {
+      "item": "minecraft:potion"
+    },
+    "8": {
+      "item": "minecraft:ice"
+    }
+  },
+  "result": {
+    "item": "net:ice_stone",
+    "count": 1
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:end_stone"
+    },
+    "1": {
+      "item": "minecraft:ender_pearl"
+    },
+    "2": {
+      "item": "minecraft:end_stone"
+    },
+    "3": {
+      "item": "minecraft:ender_pearl"
+    },
+    "4": {
+      "item": "minecraft:ender_chest"
+    },
+    "5": {
+      "item": "minecraft:ender_pearl"
+    },
+    "6": {
+      "item": "minecraft:end_stone"
+    },
+    "7": {
+      "item": "minecraft:ender_pearl"
+    },
+    "8": {
+      "item": "minecraft:end_stone"
+    }
+  },
+  "result": {
+    "item": "net:ender_pearl_stone",
+    "count": 1
+  }
+}

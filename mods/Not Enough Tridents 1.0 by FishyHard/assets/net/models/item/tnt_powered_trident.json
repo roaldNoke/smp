@@ -1,0 +1,8 @@
+{
+  "parent": "net:custom/tnt_powered_trident",
+  "textures": {
+    "0": "net:blocks/tnt_powered_trident",
+    "missing": "net:blocks/tnt_powered_trident",
+    "particle": "net:items/tnt_powered_trident_inventory"
+  }
+}

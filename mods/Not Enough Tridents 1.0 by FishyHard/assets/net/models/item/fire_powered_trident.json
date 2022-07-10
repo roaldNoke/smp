@@ -1,0 +1,8 @@
+{
+  "parent": "net:custom/fire_powered_trident",
+  "textures": {
+    "0": "net:blocks/fire_powered_trident",
+    "missing": "net:blocks/fire_powered_trident",
+    "particle": "net:items/fire_powered_trident_inventory"
+  }
+}

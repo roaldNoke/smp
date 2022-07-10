@@ -1,0 +1,8 @@
+{
+  "parent": "net:custom/ender_pearl_powered_trident",
+  "textures": {
+    "0": "net:blocks/enderpearl_powered_trident",
+    "missing": "net:blocks/enderpearl_powered_trident",
+    "particle": "net:items/ender_pearl_powered_trident_inventory"
+  }
+}

@@ -1,0 +1,5 @@
+
+["Trident Revision Reforged Config"]
+	#Determines if the repair recipe should be enabled. Default value is true
+	"Repair Recipe" = true
+
